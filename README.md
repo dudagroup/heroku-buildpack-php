@@ -1,4 +1,4 @@
-# 2000MB Upload SIZE FOR THE WIN!
+# 2000MB Upload SIZE and 1h Execution FOR THE WIN!
 
 # Heroku buildpack: PHP
 
